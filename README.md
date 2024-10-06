@@ -1,1 +1,1 @@
-A simple python projec which basic OCR
+A simple python project which performs basic OCR
